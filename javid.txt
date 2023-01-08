@@ -1,4 +1,4 @@
-it is 1 branch
+it is 1 branch ,2 branch
 
 
 hello
@@ -7,3 +7,5 @@ salam
 necesen ? 
 how are u?
 how are u doing ?
+
+I created 2 branch
