@@ -1,5 +1,6 @@
 it is 1 branch ,2 branch new branch
-To day I crated a issue and will add it
+To day I crated a issue and will add it 
+i have fixed #10 issue
 
 hello
 world
